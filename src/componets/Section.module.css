@@ -945,11 +945,16 @@
 }
 .fot_div_1 button{
     display: flex;
-    gap: 5px;
+    gap: 15px;
     align-items: center;
-
+   border-radius: 15px;
+   padding: 2px 30px;
+   background-color: rgba(4, 29, 36, 1);
+   border: 5px solid #aed3dd;
 }
 .fot_div_1 p{
    position: relative;
    top: 8px;
+   color: aliceblue;
+   font-weight: 700;
 }
