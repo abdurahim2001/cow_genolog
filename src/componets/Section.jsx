@@ -141,7 +141,7 @@ const Section = () => {
                     <div className={aa.cow_img_2}>
                         <div>
                             <h1>
-                                племеной учет жывотных
+                            Племенной учет животных
                             </h1>
                         </div>
                         <div>
